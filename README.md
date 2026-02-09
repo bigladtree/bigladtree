@@ -6,6 +6,7 @@ QuickStay System - A Group Project developed with 4 of my classmates (Githubs: E
 
 ## What Else Do i Do? 
 I am an artist at heart, and to me, the more front end part of coding requires, at least to some degree, the ability to think creatively. I love to draw and have sold a few commissions in the past, love to write, and also am a big trombone player. I have been playing trombone since 2016 and am actively in multiple of my colleges ensembles, as well as am currently completing my music minor. 
+
 Fun Fact: I LOVEEE the Muppets :-)!!!
 
 ## Looking for me outside of Github?
