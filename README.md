@@ -11,7 +11,6 @@ Fun Fact: I LOVEEE the Muppets :-)!!!
 
 ## Looking for me outside of Github?
 Instagram: @bigladtree_
-LinkedIn: 
 <!--
 **bigladtree/bigladtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
