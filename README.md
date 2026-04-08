@@ -3,6 +3,7 @@ Hello, I'm Chris!! I'm a Computer Science student at Central Michigan University
 
 ## Big Projects I've Worked On
 QuickStay System - A Group Project developed with 4 of my classmates (Githubs: EthanPhillip04, beccabanks, leahvan-cmu, AveryLong-H). I created the CSS, connected every screen together, made the home screen (after the log in), and made the table system used in the View All Properties and Filter Properties screens, as well as debugged in general. 
+Iron Ascent - A Group Unity Project developed with 3 classmates (Githubs: StallmanDarl, plunket81). I was in charge of 2 of the levels, all the character animation, and did general bug fixing. This project is still a WIP.
 
 ## What Else Do i Do? 
 I am an artist at heart, and to me, the more front end part of coding requires, at least to some degree, the ability to think creatively. I love to draw and have sold a few commissions in the past, love to write, and also am a big trombone player. I have been playing trombone since 2016 and am actively in multiple of my colleges ensembles, as well as am currently completing my music minor. 
